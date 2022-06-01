@@ -31,7 +31,4 @@ One thing you can try is : Change effective to date column to datetime format.
 the plot type to one better suited for continuous data!). Comment what you can see in the plots.
 You should also delete the column "customer_id" before you can try to use a for loop on all the categorical columns. Discuss why is deleting the column "customer_id" required. 
 Hint: Use bar plots to plot categorical data, with each unique category in the column on the x-axis and an appropriate measure on the y-axis
-9. Look for outliers in the continuous variables. (HINT: There’s a
-good plot to do that!). Did you find outliers? Comment what you will do with them.
-10. Check all columns for NaN values. Decide what (if anything) you
-will need to do with them.
+9. Check all columns for NaN values. Decide what (if anything) you will need to do with them.
