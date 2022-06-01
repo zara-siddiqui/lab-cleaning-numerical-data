@@ -26,7 +26,7 @@ i.e. customer_df = pd.readcsv("")
 5. Fix the data types of any other column/columns as you might see necessary. Note that sometimes there are some features that you might want to use as categorical but they are read as numerical by python (and vice versa). For eg. if there's a column with year values like 2020, 2021, 2022 etc. This column might be read as numerical by python but you woudl want to use that column as categorical data
 One thing you can try is : Change effective to date column to datetime format.
 6. Plot a correlation matrix, comment what do you observe.
-7. Create a function to plot every continuous variable. Comment what you can see in the plots.
+7. Plot every continuous variable. Comment what you can see in the plots.
 8. Do the same with the categorical variables (be careful, you may need to change
 the plot type to one better suited for continuous data!). Comment what you can see in the plots.
 You should also delete the column "customer_id" before you can try to use a for loop on all the categorical columns. Discuss why is deleting the column "customer_id" required. 
