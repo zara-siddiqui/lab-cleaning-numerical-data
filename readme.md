@@ -18,7 +18,7 @@ Based on the analysis, take targeted actions to increase profitable customer res
 ## Data Analysis Process
 #### Remember the process:
 
-- Case Study
+- **Case Study**
 - **Get data**
 - **Cleaning/Wrangling/EDA**
 - Processing Data
