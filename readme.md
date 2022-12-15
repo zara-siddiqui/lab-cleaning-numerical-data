@@ -19,8 +19,8 @@ Based on the analysis, take targeted actions to increase profitable customer res
 #### Remember the process:
 
 - Case Study
-- *Get data*
-- *Cleaning/Wrangling/EDA*
+- **Get data**
+- **Cleaning/Wrangling/EDA**
 - Processing Data
 - Modeling
  -Validation
