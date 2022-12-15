@@ -15,6 +15,18 @@ Analyze relevant customer data,
 Develop focused customer retention programs.
 Based on the analysis, take targeted actions to increase profitable customer response, retention, and growth.
 
+## Data Analysis Process
+#### Remember the process:
+
+- Case Study
+- *Get data*
+- *Cleaning/Wrangling/EDA*
+- Processing Data
+- Modeling
+ -Validation
+- Reporting
+
+
 # Instructions
 
 1. Import the necessary libraries.
