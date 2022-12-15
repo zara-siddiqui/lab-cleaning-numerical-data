@@ -27,6 +27,8 @@ Based on the analysis, take targeted actions to increase profitable customer res
 
 5. Change effective to date column to datetime format.
 
+6. Create a new dataframe using only the numerical data called numerical_df.  Use this for the following questions.
+
 6. Define a function that differentiates between continuous and discrete variables. Hint: The number of unique values might be useful. Store continuous data into a continuous_df variable and do the same for discrete_df
 
 7. Plot a correlation matrix, comment what you see.
