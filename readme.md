@@ -39,7 +39,7 @@ An auto insurance company has collected some data about its customers including 
 
 5. Change effective to date column to datetime format.
 
-6. Create a new dataframe using only the numerical data called numerical_df.  **Use this for the following questions**.
+6. Create a NEW dataframe using only the numerical data called _numerical_df_.  **Use this for the following questions**.
 
 6. Define a function that differentiates between continuous and discrete variables. Hint: The number of unique values might be useful. Store continuous data into a continuous_df variable and do the same for discrete_df
 
@@ -51,7 +51,7 @@ An auto insurance company has collected some data about its customers including 
 
 10. Look for outliers in the continuous variables. (HINT: There’s a good plot to do that!)
 
-11. Did you find outliers? Comment what you will do with them.  If you decide to remove them, do that now. Also remove them from your main dataframe.
+11. Did you find outliers? Comment what you will do with them.  If you decide to remove them, do that now. Also, remove them from your **main** dataframe.
 
 12. Check all columns for NaN values. Decide what (if anything) you will need to do with them, do that now.
 
