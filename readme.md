@@ -10,10 +10,10 @@ An auto insurance company has collected some data about its customers including 
 
 # Some business Objectives:
 
-Retain customers,
-Analyze relevant customer data,
-Develop focused customer retention programs.
-Based on the analysis, take targeted actions to increase profitable customer response, retention, and growth.
+- Retain customers,
+- Analyze relevant customer data,
+- Develop focused customer retention programs.
+- Based on the analysis, take targeted actions to increase profitable customer response, retention, and growth.
 
 ## Data Analysis Process
 #### Remember the process:
@@ -33,13 +33,13 @@ Based on the analysis, take targeted actions to increase profitable customer res
 
 2. Load the we_fn_use_c_marketing_customer_value_analysis.csv into the variable customer_df
 
-3. First look at its main features (head, shape, info).
+3. First look at its main features (head, shape, info). **NOTE** The target column is total_claim_amount
 
 4. Rename the columns so they follow the PE8 (snake case) (lower_case_with_underscores)
 
 5. Change effective to date column to datetime format.
 
-6. Create a new dataframe using only the numerical data called numerical_df.  Use this for the following questions.
+6. Create a new dataframe using only the numerical data called numerical_df.  **Use this for the following questions**.
 
 6. Define a function that differentiates between continuous and discrete variables. Hint: The number of unique values might be useful. Store continuous data into a continuous_df variable and do the same for discrete_df
 
