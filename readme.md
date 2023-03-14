@@ -33,7 +33,7 @@ An auto insurance company has collected some data about its customers including 
 
 2. Load the we_fn_use_c_marketing_customer_value_analysis.csv into the variable customer_df
 
-3. First look at its main features (head, shape, info). **NOTE** The target column is total_claim_amount
+3. First look at its main features (head, shape, info). **NOTE**   The target column is _total_claim_amount_
 
 4. Rename the columns so they follow the PE8 (snake case) (lower_case_with_underscores)
 
