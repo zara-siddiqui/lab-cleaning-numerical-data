@@ -51,7 +51,7 @@ Based on the analysis, take targeted actions to increase profitable customer res
 
 10. Look for outliers in the continuous variables. (HINT: There’s a good plot to do that!)
 
-11. Did you find outliers? Comment what you will do with them.  If you decide to remove them, do that now. 
+11. Did you find outliers? Comment what you will do with them.  If you decide to remove them, do that now. Also remove them from your main dataframe.
 
 12. Check all columns for NaN values. Decide what (if anything) you will need to do with them, do that now.
 
